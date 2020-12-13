@@ -1,11 +1,11 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kimberly Wan!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kimberly Wan! ✨🌙
 
 
 ⚡ Aspiring Front-End Developer
 
 🔭 Currently taking Software Development Bootcamp at Temasek Polytechnic
 
-🌱 Learning JavaScript
+🌱 Currently Learning JavaScript
 
 <!--
 - 👯 I’m looking to collaborate on ...
