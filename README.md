@@ -5,7 +5,9 @@
 
 🔭 Currently taking Software Development Bootcamp at Temasek Polytechnic
 
-🌱 Currently Learning JavaScript
+🌱 Currently learning JavaScript 
+
+👉🏻 Check out [Vanilla JavaScript projects](https://vanillajs-only.netlify.app) that I've built from scratch! 
 
 <!--
 - 👯 I’m looking to collaborate on ...
