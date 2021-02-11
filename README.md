@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kimberly Wan! ✨🌙
 
 
-⚡ Aspiring Front-End Developer
+⚡ Aspiring Web Developer
 
 🔭 Currently taking Software Development Bootcamp at Temasek Polytechnic
 
