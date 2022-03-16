@@ -1,11 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kimberly Wan! ✨🌙
 
 
-⚡ Aspiring Web Developer
-
-🔭 Currently taking Software Development Bootcamp at Temasek Polytechnic
-
-🌱 Currently learning JavaScript 
+⚡ Frontend Developer
 
 👉🏻 Check out [Vanilla JavaScript projects](https://vanillajs-only.netlify.app) that I've built from scratch! 
 
